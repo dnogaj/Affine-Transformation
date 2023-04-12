@@ -5,10 +5,13 @@ Project for Numerical-Methods course at AGH UST, ICT - 3rd semester.
 
 ## About
 
-The application calculates affine transformations- translation, reflection, scale, rotation and shear on the cube (coordinates included in the file) and hand-generated Perlin noise. 
+The application calculates affine transformations - translation, reflection, scale, rotation and shear on the cube (coordinates included in the file) and hand-generated Perlin noise. 
+The main goal was to present a difficult issue in the simplest possible way. 
+
+Use of libraries:
   - NumPy is used to perform actions on matrixes. 
-  - Matplotlib is used to create readable graphs for visualisation.
-  - Math for essencial math calculations.
+  - Matplotlib is used to create readable graphs (data visualization).
+  - Math for essential math calculations.
 
 ## Illustrative cases
 
