@@ -1,11 +1,14 @@
 # Affine Transformations
 
-App written in a team in Python (NumPy, Matplotlib, Math) for Numerical-Methods course at AGH UST, ICT - 3rd semester.
+App written in a team in Python using: NumPy, Matplotlib, Math. 
+Project for Numerical-Methods course at AGH UST, ICT - 3rd semester.
 
 ## About
 
-The application calculates affine transformations- translation, reflection, scale, rotation and shear on the cube (coordinates included in the file) and hand-generated perlin noise. 
-NumPy is used to perform actions on matrices. Matplotlib is used to create readable graphs.
+The application calculates affine transformations- translation, reflection, scale, rotation and shear on the cube (coordinates included in the file) and hand-generated Perlin noise. 
+  - NumPy is used to perform actions on matrixes. 
+  - Matplotlib is used to create readable graphs for visualisation.
+  - Math for essencial math calculations.
 
 ## Illustrative cases
 
