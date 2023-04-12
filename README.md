@@ -1,4 +1,4 @@
-# Affine-transformations
+# Affine Transformations
 
 App written in a team in Python (NumPy, Matplotlib, Math) for Numerical-Methods course at AGH UST, ICT - 3rd semester.
 
