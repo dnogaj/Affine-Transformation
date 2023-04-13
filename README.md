@@ -3,6 +3,12 @@
 App written in a team in Python using: NumPy, Matplotlib, Math. 
 Project created as part of the Numerical-Methods course at AGH UST, ICT - 3rd semester.
 
+Authors: <br />
+[Dominik Nogaj](https://github.com/dnogaj) <br />
+[Karol Sikora](https://github.com/kasikora) <br />
+[Michał Wasilewski](https://github.com/miwasil) <br />
+[Jakub Kowal](https://github.com/jd-kowal) <br />
+
 ## About
 
 The application calculates affine transformations - translation, reflection, scale, rotation and shear on the cube (coordinates included in the file) and hand-generated Perlin noise. 
